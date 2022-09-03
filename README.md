@@ -1,10 +1,10 @@
 # discord bot boilerplate
 boilerplate for beginner programmers and a quick start to creating your own discord bot.
 
-notice: we're using slash commands instead of the usual text variant of command handling.
+notice: we're using slash commands instead of text-based commands.
 
 # setup
-this boilerplate includes `interactionCreate` event and a `echo.js` command.
+this boilerplate includes an `interactionCreate` event and a `echo.js` command.
 ## installation
 clone the repo on your system
 
