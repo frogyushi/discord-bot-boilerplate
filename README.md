@@ -4,7 +4,6 @@ boilerplate for beginner programmers and a quick start to creating your own disc
 notice: we're using slash commands instead of text-based commands.
 
 # setup
-this boilerplate includes an `interactionCreate` event and a `echo.js` command.
 ## installation
 clone the repo on your system
 
