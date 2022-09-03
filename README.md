@@ -1,5 +1,6 @@
 # discord bot boilerplate
 boilerplate for beginner programmers and a quick start to creating your own discord bot.
+
 notice: we're using slash commands instead of the usual text variant of command handling.
 
 # setup
